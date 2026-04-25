@@ -73,12 +73,6 @@ System Design | Git | Bitbucket | JIRA | Agile
 
 ---
 
-## 📊 GitHub Stats
-
-![Poojitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poojitha0109&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌱 Currently Exploring
 - AI-assisted development (LLMs, MCP servers)
 - System design & scalable architectures
