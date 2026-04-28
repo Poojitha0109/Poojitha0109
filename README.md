@@ -1,7 +1,5 @@
 # Hi, I'm Poojitha 👋
-
 ![Claude 101](https://img.shields.io/badge/Claude%20101-Anthropic-blueviolet?style=for-the-badge&logo=anthropic)
-
 💻 Full-Stack Software Engineer | Java • Python • Spring Boot • React/Angular  
 ☁️ AWS | CI/CD | Microservices | AI-integrated development  
 📍 Charlotte, NC  
@@ -9,7 +7,6 @@
 ---
 
 ## 🚀 About Me
-
 I'm a Full-Stack Software Engineer with experience building scalable, high-performance applications in finance and enterprise systems.
 
 - Improved UI performance by **30%** and reduced load time by **20%**
@@ -22,7 +19,6 @@ I enjoy building reliable systems, automating workflows, and creating impactful 
 ---
 
 ## 🛠 Tech Stack
-
 **Languages:**  
 Java | Python | JavaScript | TypeScript | Go  
 
@@ -48,7 +44,7 @@ System Design | Git | Bitbucket | JIRA | Agile
 
 ## 💼 Experience
 
-### 🏢 Associate Software Engineer — Moody’s
+### 🏢 Associate Software Engineer — Moody's
 - Built scalable Angular-based document platform used by financial analysts  
 - Designed Spring Boot upload engine supporting high-volume async processing  
 - Implemented RBAC & secure AWS storage for compliance workflows  
@@ -64,6 +60,13 @@ System Design | Git | Bitbucket | JIRA | Agile
 ---
 
 ## 🚀 Projects
+
+### 🤖 AI Code Reviewer
+- AI-powered code review tool for GitHub PRs and code snippets  
+- Detects bugs, security vulnerabilities, style issues, and improvements  
+- Built with **FastAPI** + **OpenAI GPT-4o** + **GitHub REST API** + **Next.js 14**  
+- Structured JSON output, animated quality score ring, and inline diff viewer  
+- 🔗 [github.com/Poojitha0109/ai-code-reviewer](https://github.com/Poojitha0109/ai-code-reviewer)
 
 ### 🏆 QourtPlay – Sports Scoring & Ranking Platform
 - Real-time scoring system with ELO ranking  
@@ -81,9 +84,8 @@ System Design | Git | Bitbucket | JIRA | Agile
 ---
 
 ## 📫 Connect With Me
-
 - 💼 LinkedIn: https://www.linkedin.com/in/panabakapoojitha/
-- 📧 Email: saipoojitha0109@gmail.com
+- 📧 Email: [saipoojitha0109@gmail.com](mailto:saipoojitha0109@gmail.com)
 
 ---
 
